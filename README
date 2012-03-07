@@ -1,16 +1,14 @@
 3.06.12
 
-this program will:
-
--be an executable (.py to .exe?)
--use a windows-like gui, i.e. not command line.
--have a colorful splash screen with 8-bit or 16-bit art or animation.
-  -the splash screen will have a login button and a couple other buttons.
-  -a login dialog bo will appear and allow a string input
+core features:
+-allow a user to login
 -after login, the user will recieve a custom greeting specific to that user.
 -the program will check the system time and date and compare it to criteria needed to pass various functions in the program.
--give a reply based on the time/date of user login
 -store a history of logins per user, logins for time/date of login that met different sets of criteria.
+
+secondary features:
+-be an executable (.py to .exe?)
+-use a windows-like gui, i.e. not command line.
 -play an audio file (not sure about format)
 -play an animation (not sure about format)
 -show a picture (not sure about format)
